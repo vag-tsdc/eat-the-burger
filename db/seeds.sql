@@ -1,0 +1,10 @@
+INSERT INTO burgers (burgerName) VALUES ('Do Brussel Burger (comes with Brussels sprouts)');
+INSERT INTO burgers (burgerName) VALUES ('Burger a la Mode (comes with ice cream, not on top)');
+INSERT INTO burgers (burgerName, devoured) VALUES ('Ruta-Bag-A Burger', true);
+INSERT INTO burgers (burgerName, devoured) VALUES ('Romanes of the Day Burger', true);
+INSERT INTO burgers (burgerName, devoured) VALUES ('Its Only Sourdough Burger (But I Like It)', true);
+INSERT INTO burgers (burgerName) VALUES ('50 Ways to Leave Your Guava Burger');
+INSERT INTO burgers (burgerName) VALUES ('Summer Thyme Burger');
+INSERT INTO burgers (burgerName) VALUES ('Peas and Thank You Burger');
+INSERT INTO burgers (burgerName) VALUES ('I Am Mad About Saffron (made with no saffron)');
+INSERT INTO burgers (burgerName) VALUES ('Yes I Cayenne Burger');
